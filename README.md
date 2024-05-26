@@ -15,7 +15,5 @@ This Jupyter Notebook performs an in-depth analysis of stock trading strategies.
 
 #### Key Features:
 - **Data Loading**: Loading stock market data using `pandas`.
-- **Exploratory Data Analysis (EDA)**: Visualizing the stock market data to understand trends and patterns.
 - **Strategy Implementation**: Implementing various trading strategies such as Moving Average Crossover, RSI, and others.
-- **Backtesting**: Testing the implemented strategies using historical data to evaluate their performance.
-- **Performance Evaluation**:
+
